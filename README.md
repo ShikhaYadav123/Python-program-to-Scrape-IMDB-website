@@ -1,2 +1,2 @@
-# Python-program-to-Scrape-IMDB-website
-Python program to Scrape IMDB website using Beautiful Soup and Requests library
+# Python-program-webscraping-from-good reads website
+Python program to Scrape Good reads website using Beautiful Soup and Requests library
